@@ -171,7 +171,7 @@ D、Github Desktop尝试编辑后提交成功；
 
 
 
-**转载请注明源地址：**https://github.com/liangyimingcom/How-to-build-an-AWS-Workshop-website
+**转载请注明源地址** https://github.com/liangyimingcom/How-to-build-an-AWS-Workshop-website
 
 
 
