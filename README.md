@@ -1,6 +1,6 @@
-# 如何搭建一个aWorkshop网站
+# 如何搭建一个Workshop网站
 
-How to build an AWS Workshop website
+How to build an Workshop website
 
 如何搭建一个Workshop网站，如https://mfgee.ml，参考下图：
 
