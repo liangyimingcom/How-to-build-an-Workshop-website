@@ -175,3 +175,53 @@ D、Github Desktop尝试编辑后提交成功；
 
 
 
+# 补充与附录
+
+### 1）如何添加code一键复制的效果，如下图
+
+![image-20210609122544978](https://raw.githubusercontent.com/liangyimingcom/storage/master/uPic/image-20210609122544978.png)
+
+
+
+步骤：
+
+1）首先确定你的代码类型，如上类型是python代码；
+
+2）在Typora中进入源代码模式：
+
+![image-20210609122830289](https://raw.githubusercontent.com/liangyimingcom/storage/master/uPic/image-20210609122830289.png)
+
+
+
+**3）在代码开头位置，添加~~~前缀并加入关键字python，同时结尾处加入后缀，如下：**
+
+![image-20210609123031763](https://raw.githubusercontent.com/liangyimingcom/storage/master/uPic/image-20210609123031763.png)
+
+
+
+**4）base/shell/dos的关键字可以参考如下：**
+
+Some shell samples:
+
+```sh
+Shell:      console, shell
+Bash:       bash, sh, zsh
+PowerShell: powershell, ps
+DOS:        dos, bat, cmd
+```
+
+Example:
+
+~~~sh
+```bat
+cd \
+copy a b
+ping 192.168.0.1
+```
+~~~
+
+
+
+**5）完整的关键字请参考这里：**
+
+list of languages   https://github.com/highlightjs/highlight.js/blob/master/SUPPORTED_LANGUAGES.md
