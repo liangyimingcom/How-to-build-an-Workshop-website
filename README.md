@@ -2,7 +2,8 @@
 
 How to build an Workshop website
 
-如何搭建一个Workshop网站，如https://mfgee.ml，参考下图：
+如何搭建一个Workshop网站，如https://mfgee.ml
+参考下图：
 
 ![image-20210528120019229](https://raw.githubusercontent.com/liangyimingcom/storage/master/uPic/image-20210528120019229.png)
 
